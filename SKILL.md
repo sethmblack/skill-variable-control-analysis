@@ -3,8 +3,8 @@ name: variable-control-analysis
 description: Identify hidden variables causing inconsistent results. When outcomes vary unexpectedly, systematically isolate the source of variation rather than dismissing results as random or the method as unr...
 license: MIT
 metadata:
-  version: 1.0.5261
   author: sethmblack
+  version: 1.0.5262
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - variable-control-analysis
